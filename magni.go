@@ -29,9 +29,10 @@ package magni
 import (
 	"fmt"
 	"log"
-	"magni-irc/irc"
 	"os"
 	"strings"
+
+	"github.com/norwack/magni-irc/irc"
 )
 
 // Magni is dark magic at it's best
